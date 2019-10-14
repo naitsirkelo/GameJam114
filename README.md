@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/naitsirkelo/GameJam114">
-    <img src="Assets/images/gp_idle1.png" alt="Logo" width="300" height="400">
+    <img src="Assets/Images/gp_idle1.png" alt="Logo" width="300" height="400">
   </a>
 </p>
 
